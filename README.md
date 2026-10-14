@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS PySpark End-to-End Data Engineering Pipeline
 
 ![AWS S3](https://img.shields.io/badge/AWS-S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -301,3 +302,8 @@ python scripts/silver_to_gold.py
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+=======
+# AWS-data-engineering-project
+>>>>>>> 2013de61bff8d2714c378c9705f53c609e542248
+#   r e t a i l - d a t a - e n g i n e e r i n g - p r o j e c t - p r o j e c t  
+ 
