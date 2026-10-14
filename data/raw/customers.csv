@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,city,state,signup_date
+1,Chandresh,Dhawan,yadavirama@example.net,Bardhaman,Gujarat,2025-04-15
+2,Anamika,Bhatia,mahika47@example.org,Muzaffarnagar,Tamil Nadu,2026-05-13
+3,Veer,Contractor,dadaupma@example.com,Mirzapur,Bihar,2026-06-21
+4,Amruta,Acharya,suralajita@example.net,Gulbarga,Bihar,2025-08-24
+5,Ikshita,Kota,randhawakamya@example.org,Aligarh,Uttarakhand,2026-02-24
+6,Aashi,Sachar,abdulkaul@example.com,Dehri,West Bengal,2026-05-11
+7,Lucky,Rege,harish96@example.com,Uluberia,Punjab,2026-05-24
+8,Daksha,Babu,omagar@example.com,Bokaro,Uttar Pradesh,2025-11-05
+9,Geetika,Garde,raghavanomaja@example.net,Suryapet,West Bengal,2025-01-14
+10,Triveni,Subramaniam,naksh31@example.org,Howrah,Uttarakhand,2025-10-05
+11,Jagrati,Kadakia,chaitanyashah@example.com,Firozabad,Sikkim,2026-03-04
+12,Sathvik,Raju,irout@example.net,Gurgaon,Jharkhand,2025-06-21
+13,Ishita,Tailor,vasana86@example.net,Sambalpur,Tripura,2025-12-18
+14,Raghav,Nanda,dalalridhi@example.com,Faridabad,Sikkim,2025-12-02
+15,Lohit,Kibe,amane@example.com,Amaravati,Telangana,2025-11-12
+16,Joshua,Boase,poojabehl@example.com,Durgapur,Gujarat,2024-11-28
+17,Nakul,Upadhyay,indirarana@example.org,Miryalaguda,Himachal Pradesh,2026-05-26
+18,Agastya,Gara,wsood@example.net,Asansol,Telangana,2025-10-27
+19,Darpan,Kapoor,samarsunder@example.com,Gorakhpur,Sikkim,2026-03-17
+20,Tarak,Sura,patrick53@example.org,Gopalpur,Arunachal Pradesh,2024-12-29
+21,Janya,Borra,laksh97@example.com,Tiruppur,Tripura,2026-07-22
+22,Geetika,Vyas,ahujabahadurjit@example.com,Sonipat,Andhra Pradesh,2026-07-31
+23,Yatan,Pant,nadigpeter@example.net,Nellore,Bihar,2025-07-08
+24,Chaman,Wagle,swaminathanrachit@example.net,Bally,Tripura,2025-11-03
+25,Adya,Pillay,revakalla@example.com,Alappuzha,Tripura,2025-08-22
+26,Anya,Rana,chakrika18@example.org,Gurgaon,Nagaland,2024-10-03
+27,Vrinda,Sami,adhawan@example.org,Chinsurah,Tripura,2025-02-23
+28,Veer,Dyal,chandreshsastry@example.com,Firozabad,Tamil Nadu,2026-06-23
+29,Madhavi,Badal,logannarayanan@example.com,Panipat,Uttar Pradesh,2025-07-20
+30,Chanchal,Gole,warjasbasu@example.com,Kolkata,Bihar,2025-02-23
+31,Gauri,Bajwa,eiravatipillai@example.com,Hosur,Uttarakhand,2025-06-28
+32,Guneet,Srinivas,tellatanmayi@example.net,Amritsar,Maharashtra,2024-12-06
+33,Xiti,Bahl,dhaliwalaishani@example.net,Giridih,Kerala,2025-05-15
+34,Ucchal,Narayanan,agateanya@example.com,Sonipat,Manipur,2026-02-28
+35,Ekapad,Hora,aarushupadhyay@example.org,Mehsana,Assam,2025-10-29
+36,Girindra,Kar,bahadurjit67@example.com,Thane,Tamil Nadu,2024-11-18
+37,Chanchal,Batta,finndora@example.net,Tumkur,Rajasthan,2025-12-01
+38,Zaitra,Tripathi,shravyamann@example.com,Kakinada,Jharkhand,2025-06-16
+39,Elijah,Patel,nimratchander@example.net,Bokaro,Odisha,2026-01-19
+40,Gaurang,Viswanathan,zehaan16@example.net,Bally,Jharkhand,2026-06-03
+41,Gaurika,Chadha,quincyborah@example.org,Ranchi,Chhattisgarh,2026-06-12
+42,Urmi,Banik,upasnakuruvilla@example.com,Durgapur,Uttarakhand,2026-03-27
+43,Yatin,Sarma,robertbajwa@example.net,Howrah,Uttar Pradesh,2026-06-23
+44,Ganga,Tara,dhruv11@example.net,Rajkot,Telangana,2024-09-14
+45,Yashasvi,Pandya,kashyapchristopher@example.org,Amritsar,Arunachal Pradesh,2024-11-23
+46,Edhitha,Chaudhry,omkaar55@example.org,Panipat,Rajasthan,2024-10-27
+47,Parth,Bassi,ekala@example.com,Nanded,Odisha,2025-07-08
+48,Fitan,D’Alia,amruta69@example.org,Anantapuram,Andhra Pradesh,2025-09-13
+49,Unnati,Raghavan,prashadaryan@example.net,Jalgaon,Meghalaya,2026-05-18
+50,Upasna,Murty,gavingera@example.net,Mango,West Bengal,2026-06-19
+51,Meghana,Vyas,dalbir95@example.com,Sangli-Miraj & Kupwad,Himachal Pradesh,2025-07-20
+52,Pallavi,Prabhakar,atharv89@example.org,Firozabad,Jharkhand,2026-07-02
+53,Sai,Bail,ssampath@example.net,Aurangabad,Meghalaya,2024-08-06
+54,Priya,Om,nagarvritti@example.com,Miryalaguda,Mizoram,2025-05-20
+55,Vrinda,Rana,hariniratta@example.com,Maheshtala,Manipur,2024-12-21
+56,Vrishti,Doshi,ckaran@example.com,Gopalpur,Chhattisgarh,2025-07-06
+57,Zansi,Basu,dasguptasiddharth@example.net,Bijapur,Telangana,2025-01-07
+58,Mitali,Arya,saxenaxavier@example.org,Junagadh,Arunachal Pradesh,2024-08-30
+59,Janaki,Mann,ymody@example.com,Patna,Sikkim,2025-01-19
+60,Yatin,Padmanabhan,uppallakshit@example.com,Sangli-Miraj & Kupwad,Uttar Pradesh,2026-05-31
+61,Unnati,Sachar,ftoor@example.org,Satna,Nagaland,2025-10-24
+62,Naveen,Das,damini96@example.net,Chittoor,Punjab,2026-04-04
+63,Maya,Agarwal,garima30@example.com,Chapra,Chhattisgarh,2024-09-12
+64,Wazir,Dada,jack47@example.org,Muzaffarnagar,Rajasthan,2024-09-14
+65,Damyanti,Balay,urvisekhon@example.com,Nizamabad,Nagaland,2025-10-18
+66,Balveer,Nori,radhikaprasad@example.org,Mirzapur,Himachal Pradesh,2026-02-04
+67,Triveni,Pathak,madhav01@example.org,Karawal Nagar,Andhra Pradesh,2025-01-15
+68,Anay,Rattan,fkuruvilla@example.org,Sagar,Goa,2026-06-26
+69,Eta,Sharaf,jde@example.org,Vijayawada,Rajasthan,2024-10-08
+70,Alka,Handa,cmohanty@example.net,Pali,Rajasthan,2025-10-10
+71,Indira,Sami,xbuch@example.net,Erode,Chhattisgarh,2024-09-25
+72,Lucky,Nigam,idika74@example.org,Varanasi,Chhattisgarh,2026-02-05
+73,Ayushman,Ramakrishnan,samarsamra@example.net,Giridih,Gujarat,2026-05-31
+74,Gautami,Gala,chanakyaedwin@example.com,Ratlam,Assam,2025-07-13
+75,Jai,Char,xalakchowdhury@example.org,Nizamabad,Gujarat,2025-12-14
+76,Neelima,Bajwa,bahadurjit03@example.net,Gopalpur,Karnataka,2025-08-26
+77,Diya,Kothari,bhavinichandra@example.org,Anantapur,Meghalaya,2024-08-08
+78,Arin,Palla,mannanishanvi@example.org,Dehri,Bihar,2026-03-21
+79,Nakul,Rao,rachana84@example.net,Alwar,Bihar,2025-02-23
+80,Hitesh,Ravi,utkarsh20@example.net,Gopalpur,Meghalaya,2025-11-09
+81,Warjas,Murthy,falan81@example.net,Asansol,West Bengal,2026-05-11
+82,Jack,Lad,chaitanyachaudhuri@example.net,Chapra,Gujarat,2025-11-10
+83,Teerth,Bahri,fitansinha@example.net,Ambala,Nagaland,2025-10-20
+84,Madhav,Mohanty,lbatra@example.com,Raichur,Maharashtra,2025-08-22
+85,Hardik,Aurora,loyalkala@example.com,Pune,West Bengal,2025-10-26
+86,Isaac,Narasimhan,karan96@example.com,Pondicherry,Rajasthan,2024-12-26
+87,Baljiwan,Loyal,unnikumer@example.org,Hosur,Rajasthan,2024-08-03
+88,Nakul,Mammen,rushil38@example.net,Pimpri-Chinchwad,Rajasthan,2025-11-03
+89,Raghav,Setty,viraj91@example.net,Bathinda,Karnataka,2025-09-22
+90,Dalbir,Pau,anita48@example.net,Lucknow,Odisha,2026-06-02
+91,Tara,Aurora,kdass@example.com,Rajkot,Jharkhand,2026-05-06
+92,Yutika,Panchal,girishkibe@example.com,Sultan Pur Majra,Manipur,2024-08-22
+93,Shaurya,Thaker,raizinal@example.com,Katihar,Sikkim,2024-11-18
+94,Ekaraj,Iyengar,pranitlall@example.net,Gulbarga,Tripura,2025-05-26
+95,Nidhi,Ramesh,sherebhavani@example.net,Secunderabad,Punjab,2025-12-22
+96,Tamanna,Jain,watikadeep@example.com,Vijayanagaram,Kerala,2025-08-29
+97,Ayushman,Shankar,bwarrior@example.net,Phagwara,Telangana,2025-10-11
+98,Bachittar,Deol,nandinide@example.com,Kollam,Odisha,2025-02-10
+99,Ekbal,Bedi,umang28@example.com,Bijapur,Tripura,2025-01-05
+100,Caleb,Karnik,npatla@example.net,Dhule,Nagaland,2025-03-11
